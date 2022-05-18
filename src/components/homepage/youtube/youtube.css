@@ -1,0 +1,21 @@
+.dvYouTube {
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+.dvYouTube .opacity {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10rem 0;
+}
+
+
+
+.dvYouTube .heading-md,
+.dvYouTube p,
+.dvYouTube .fa-play {
+    color: var(--third-color);
+}
+
+.dvYouTube .fa-play {
+    font-size: 3rem;
+}
